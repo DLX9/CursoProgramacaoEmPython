@@ -1,0 +1,22 @@
+PROBLEMÁTICA
+Fazer um bolo de chocolate
+
+Início do Algoritimo
+	Pré-aqueça o forno em 180 graus;
+	Peque os ingredientes e coloque na mesa;
+	Pegue os utensilios e coloque na mesa;
+	Unte a forma do bolo com margarina e farinha;
+	Coloque os ingredientes no liquidificador;
+	Bata os ingredientes em velocidade média por 5min;
+	Transfira para uma bacia;
+	Coloque os ingredientes secos na bacia;
+	Misture os ingredientes até ficar homogênio com uma colher de pau;
+	Coloque o conteúdo homogênio na forma untada;
+	Leve ao forno durante 35min;
+	Desligue o forno;
+	Aguarde esfriar durante 15min;
+	Retire o bolo da forma e transfira em um prato;
+	Lave os utensilios;
+	Jogue o lixo fora;
+	Fatie o bolo;
+Fim do algoritimo

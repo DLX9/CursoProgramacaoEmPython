@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-07-18T18:11:21.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lCrZboQow8z0c-h5r6gP" version="21.6.3" type="device">
+  <diagram name="Página-1" id="JwzV-VIT0AA5E0WyGwq5">
+    <mxGraphModel dx="1562" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#b0b0b0" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-2" target="6EDMn29ioL-9U9Ceu8K1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-3" target="6EDMn29ioL-9U9Ceu8K1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Insira seu nome:&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-5" target="6EDMn29ioL-9U9Ceu8K1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Leia&lt;br&gt;(nome)&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-9" target="6EDMn29ioL-9U9Ceu8K1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Insira sua idade:&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-10" target="6EDMn29ioL-9U9Ceu8K1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Leia&lt;br&gt;(idade)&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-15" target="6EDMn29ioL-9U9Ceu8K1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-15" target="6EDMn29ioL-9U9Ceu8K1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Se idade &lt;br&gt;&amp;gt;= 18&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="345" y="545" width="110" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-18" value="&lt;font color=&quot;#ff1919&quot; style=&quot;font-size: 20px;&quot;&gt;Falso&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="560" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-19" value="&lt;font color=&quot;#82ff05&quot; style=&quot;font-size: 20px;&quot;&gt;Verdadeiro&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-20" target="6EDMn29ioL-9U9Ceu8K1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Bem vindo, (nome), tendo (idade), você já pode tirar CNH&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6EDMn29ioL-9U9Ceu8K1-22" target="6EDMn29ioL-9U9Ceu8K1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Sinto muito, (nome), tendo (idade), você ainda não pode tirar CNH&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6EDMn29ioL-9U9Ceu8K1-24" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;FIM&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
